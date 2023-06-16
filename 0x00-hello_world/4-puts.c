@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 /**
  * main - entery piont
  *  return : Always 0 (success)
